@@ -39,5 +39,5 @@ O PBMConverter é uma aplicação simples desenvolvida em linguagem C para um cl
 **Conclusão:**
 O PBMConverter é uma ferramenta útil para converter dados de imagem em formato PBM, oferecendo flexibilidade e simplicidade no processo. Com suas funcionalidades intuitivas e entrada flexível, é uma solução eficaz para lidar com imagens em preto e branco de forma eficiente.
 
-Para mais informações ou suporte, consulte a documentação ou entre em contato conosco.
+
 
